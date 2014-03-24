@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-This is rama krishna prasad
-=======
->>>>>>> parent of 804131e... add by rk
+
+khis is rama krishna prasad
+
